@@ -3,5 +3,22 @@
 # Abstract:
 
 The movie industry, a multibillion-dollar global phenomenon, has captivated audiences worldwide with its diverse language offerings, genre preferences, and regional nuances. This project delves into the intricate tapestry of the cinematic landscape, unveiling the dominance of English-language films, which have garnered staggering box office revenues, while also spotlighting the top-grossing non-English movies that have transcended linguistic barriers.
+
 Furthermore, the analysis sheds light on the revenue patterns and genre preferences of the industry's top 20 actors, revealing how these factors have shaped their performances and contributed to their enduring success. Notably, the project uncovers the evolution of movie production, box office performance, and genre preferences across different countries and regions over time, illuminating the cultural and economic factors that have propelled specific markets to prominence.
+
 By employing data-driven analysis and visualizations, this project offers invaluable insights to movie studios, filmmakers, and audiences alike, fostering a deeper understanding of the intricate tapestry that weaves together the global cinematic experience.
+
+
+# Data Analysis Questions I have answered:
+
+## Question 1: 
+
+#### Analyzing language diversity and revenue trends in the top movies: How does the dominance of English-language films compare to non-English counterparts, and what are the top-grossing movies for each language over time? 
+
+## Question 2: 
+
+#### What are the revenue patterns and genre preferences among the top 20 actors in the movie industry, and how do these factors influence their performance and success?
+
+## Question 3: 
+
+#### How have movie production, box office performance, and genre preferences varied across different countries and regions overtime, and what factors contribute to their success in specific markets? Also, analyzing which character name appeared to be the most in all the movies.
