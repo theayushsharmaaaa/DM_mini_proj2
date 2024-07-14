@@ -1,4 +1,4 @@
-# Data Mining Mini-Project 2
+# Data Analysus on Movies Dataset (CMU Movie Summary Corpus)
 
 # Abstract:
 
