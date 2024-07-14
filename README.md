@@ -8,6 +8,8 @@ In addition, that analysis helps us to understand the revenue specifics and the 
  
 This project, which does data-driven analysis and visualizations, is the one that provides invaluable insights to movie studios, filmmakers, as well as audiences helping them better understand a complex and intricate tapestry that is global cinema. 
 
+Dataset used: https://www.cs.cmu.edu/~ark/personas/
+
 
 # Data Analysis Questions I have answered:
 
