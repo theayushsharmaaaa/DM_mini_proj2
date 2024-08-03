@@ -1,4 +1,4 @@
-# Data Analysus on Movies Dataset (CMU Movie Summary Corpus)
+# Data Analysis on Movies Dataset (CMU Movie Summary Corpus)
 
 # Abstract:
 
